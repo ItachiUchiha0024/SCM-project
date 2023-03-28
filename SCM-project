@@ -1,6 +1,6 @@
 import json
 def createQuiz():
-    print("Quiz Created")
+    print("Quiz Created by Aastha Aashish Aaryanshyam")
     n = int(input("Enter the no of questions you want to set for quiz!!!: "))
     dict = {}
     for i in range(n):  
